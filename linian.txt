@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>许渊冲 - 翻译理念与贡献</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+    <div class="banner">
+        <img src="images/banner.png">
+      </div>
+    <div class="nav-box">
+        <ul>
+            <li><a href="index.html">首页</a></li>
+            <li><a href="shengping.html">生平简介</a></li>
+            <li><a href="linian.html">翻译理念与贡献</a></li>
+            <li><a href="zuopin.html">代表作品精选</a></li>
+            <li><a href="yingxiang.html">影响与纪念</a></li>
+            <li><a href="lianxi.html">联系我们</a></li>
+        </ul>
+    </div>
+    <h2 class="title">翻译理念与毕生贡献</h2>
+    <div class="linian-top">
+        <div class="linian-txt">
+            <p>许渊冲先生提出了极具影响力的翻译「三美论」核心理念，即翻译要做到意美、音美、形美。意美是灵魂，是译文要传达原文的意境与内涵；音美是韵律，是译文要保留原文的节奏与声律；形美是形式，是译文要贴合原文的句式与结构。</p>
+            <p>除此之外，先生还提出翻译的「三之论」：知之、好之、乐之。知之是掌握翻译的技巧与方法，好之是热爱翻译事业，乐之是在翻译中获得创造的快乐，这也是他一生治学的真实写照。</p>
+            <p>他的翻译原则不拘泥于死板的直译，而是追求「再创译」，在忠实原文的基础上，让译文兼具美感与可读性，让不同语言的读者都能感受到文学的魅力。</p>
+        </div>
+        <div class="linian-img">
+            <img src="images/3.png">
+        </div>
+    </div>
+    <div class="linian-bot">
+        <div class="linian-item">
+            <h3>文化传播贡献</h3>
+            <p>许渊冲是首位将中国古典诗词全面、系统翻译成英法韵文的翻译家，把《诗经》《楚辞》《唐诗三百首》《宋词三百首》《西厢记》等经典尽数译介至海外，让中国古典文学的美被世界看见。</p>
+        </div>
+        <div class="linian-item">
+            <h3>行业发展贡献</h3>
+            <p>先生深耕翻译领域八十余年，著译超百部，为翻译界留下了宝贵的文本财富与理论体系。他培养了大批翻译人才，其翻译理念影响了几代翻译从业者，推动了中国文学翻译事业的发展。</p>
+        </div>
+    </div>
+    <div class="copyright">© 许渊冲</div>
+</div>
+</body>
+</html>

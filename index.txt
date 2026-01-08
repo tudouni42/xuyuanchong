@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>许渊冲 - 首页</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="banner">
+      <img src="images/banner.png">
+    </div>
+    <div class="nav-box">
+      <ul>
+        <li><a href="index.html">首页</a></li>
+        <li><a href="shengping.html">生平简介</a></li>
+        <li><a href="linian.html">翻译理念与贡献</a></li>
+        <li><a href="zuopin.html">代表作品精选</a></li>
+        <li><a href="yingxiang.html">影响与纪念</a></li>
+        <li><a href="lianxi.html">联系我们</a></li>
+      </ul>
+    </div>
+
+    <div class="index-main">
+      <div class="index-item">
+        <h3>译界泰斗</h3>
+        <p>许渊冲（1921-2021），江西南昌人，中国著名翻译家，北京大学教授，毕生致力于中外文学翻译事业，是中国诗译英法唯一人，百岁之年依旧笔耕不辍，译路求索。</p>
+      </div>
+      <div class="index-item">
+        <h3>核心翻译理念</h3>
+        <p>独创翻译的「三美论」核心理念：意美、音美、形美。力求译文兼具原文的意境之美、韵律之美、形式之美，让中外读者共赏文学精髓。</p>
+      </div>
+      <div class="index-item">
+        <h3>百年译途成就</h3>
+        <p>深耕翻译领域八十余载，译作超百部，中译英法、英译中双向译介，荣获国际翻译界最高奖项北极光奖，是亚洲首位获此殊荣的翻译大家。</p>
+      </div>
+    </div>
+    <div class="index-intro">
+      <div class="index-intro-img">
+        <img src="images/1.png">
+      </div>
+      <div class="index-intro-txt">
+        <p>许渊冲先生是中国翻译界的标杆人物，1921年生于江西南昌，2021年在北京逝世，百岁人生，译笔一生。先生毕业于西南联大外文系，师从钱钟书等国学大师，兼具深厚的中英文功底与文学素养。</p>
+        <p>他毕生坚守文学翻译事业，是目前唯一能将中国古典诗词尽数译成英法韵文的翻译家，让《诗经》《楚辞》《唐诗宋词》等经典走出国门，也将《红与黑》《莎士比亚全集》等西方名著精准译入中文，架起中外文化交流的桥梁。</p>
+        <p>先生治学严谨又心怀浪漫，始终秉持「自信使人进步」的信念，九十岁译莎翁，百岁仍著书，用一生诠释了译无止境的真谛。</p>
+      </div>
+    </div>
+    <div class="index-ach">
+      <div class="index-ach-item">
+        <h4>译著超百部</h4>
+        <p>中英法互译经典著作，题材涵盖诗词、戏曲、小说等多领域</p>
+      </div>
+      <div class="index-ach-item">
+        <h4>三美论创立</h4>
+        <p>提出意美、音美、形美翻译准则，成为文学翻译重要理论</p>
+      </div>
+      <div class="index-ach-item">
+        <h4>北极光得主</h4>
+        <p>2014年获国际翻译最高奖，亚洲首位获此荣誉的翻译家</p>
+      </div>
+      <div class="index-ach-item">
+        <h4>百年译路</h4>
+        <p>百岁高龄坚持创作，毕生奉献中外文化传播事业</p>
+      </div>
+    </div>
+    <div class="copyright">© 许渊冲</div>
+  </div>
+</body>
+
+</html>

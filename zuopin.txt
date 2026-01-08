@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>许渊冲 - 代表作品精选</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+    <div class="banner">
+        <img src="images/banner.png">
+      </div>
+    <div class="nav-box">
+        <ul>
+            <li><a href="index.html">首页</a></li>
+            <li><a href="shengping.html">生平简介</a></li>
+            <li><a href="linian.html">翻译理念与贡献</a></li>
+            <li><a href="zuopin.html">代表作品精选</a></li>
+            <li><a href="yingxiang.html">影响与纪念</a></li>
+            <li><a href="lianxi.html">联系我们</a></li>
+        </ul>
+    </div>
+    <h2 class="title">代表作品精选</h2>
+    <div class="zuopin-main">
+        <div class="zuopins">
+            <img src="images/z1.png">
+            <h3>中国诗词经典英译</h3>
+            <p>《唐诗三百首》《宋词三百首》《诗经》《楚辞》，许渊冲以韵文形式英译中国古典诗词，完美还原诗词的韵律与意境，是中国诗词英译的典范之作。</p>
+        </div>
+        <div class="zuopins">
+            <img src="images/z2.png">
+            <h3>古典戏曲翻译</h3>
+            <p>《西厢记》英、法译本，将中国古典戏曲的唯美与浪漫精准译介，成为首部被完整译介至英法的中国古典戏曲，享誉海外汉学界。</p>
+        </div>
+        <div class="zuopins">
+            <img src="images/z3.png">
+            <h3>英法著作中译</h3>
+            <p>译介《红与黑》《包法利夫人》《莎士比亚全集》等英法经典，译文流畅优美，贴合中文表达习惯，让国内读者领略原汁原味的西方经典文学。</p>
+        </div>
+        <div class="zuopins">
+            <img src="images/z4.png">
+            <h3>楚辞全译</h3>
+            <p>《楚辞》的英法双语译本，是首部完整的楚辞外文译本，将屈原的浪漫主义情怀与瑰丽辞藻完美呈现，填补了楚辞翻译的空白。</p>
+        </div>
+        <div class="zuopins">
+            <img src="images/z5.png">
+            <h3>李白杜甫诗选</h3>
+            <p>精选李杜经典诗作英译，兼顾诗歌的平仄与意境，让西方读者读懂盛唐诗歌的豪迈与沉郁，成为海外了解盛唐诗歌的重要读本。</p>
+        </div>
+        <div class="zuopins">
+            <img src="images/z6.png">
+            <h3>翻译理论著作</h3>
+            <p>《翻译的艺术》《文学翻译谈》等著作，系统阐述其「三美论」翻译理念，是翻译专业的重要参考书籍，影响深远。</p>
+        </div>
+    </div>
+    <div class="copyright">© 许渊冲</div>
+</div>
+</body>
+</html>
